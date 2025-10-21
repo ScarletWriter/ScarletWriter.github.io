@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Prajakta Ghonmode"
   avatar : "/assets/images/profile.png"
-  bio    : "Graduate student in Biological Sciences interested in cell dynamics."
+  bio    : "Transforming technical details into actionable insights.."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

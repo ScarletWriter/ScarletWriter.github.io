@@ -6,7 +6,8 @@ layout: single
 author_profile: true
 ---  
 
-I am **BSC student** Biology at Gondwana University of Mahatma jyotiba colleoge Saoli. My research interests are in the area of cell dymanics.   
+
+HI, I am a **Technical Writer** who creates clear, concise, and user-friendly documentation for software product.I specialize in transforming complex technical information into accesible content for users.
 My main projects are:  
 - Project 1
 - Project 2

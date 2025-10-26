@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/profile.png"
   bio    : "Transforming technical details into actionable insights.."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+ #   - label: "Website"
+ #     icon: "fas fa-fw fa-link"
+ #     url: "https://"
     - label: "Linkdin"
       icon: "fa-brands fa-linkedin-in"
       url: "https://linkdin.com/"

@@ -8,7 +8,7 @@ author_profile: true
 
 
 HI, I am a **Technical Writer** who creates clear, concise, and user-friendly documentation for software product. I specialize in transforming complex technical information into accesible content for users.  
-My sample documentation are:  
+My sample documents are:  
 - Project 1
 - Project 2
 - Project 3

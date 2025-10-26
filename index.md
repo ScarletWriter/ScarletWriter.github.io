@@ -7,7 +7,7 @@ author_profile: true
 ---  
 
 
-# Hi, I’m Prajakta Ghonmode 👋
+**Hi, I’m Prajakta Ghonmode** 👋
 
 (you might know me online as ScarletWriter)
 

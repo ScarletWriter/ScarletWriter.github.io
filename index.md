@@ -7,9 +7,12 @@ author_profile: true
 ---  
 
 
-HI, I am a **Technical Writer** who creates clear, concise, and user-friendly documentation for software product. I specialize in transforming complex technical information into accesible content for users.  
-My sample documents are:  
-- Project 1
-- Project 2
-- Project 3
-- Project 4
+# Hi, I’m Prajakta Ghonmode 👋
+
+(you might know me online as ScarletWriter)
+
+I’m a technical writer with over 3+ years of experience creating documentation that actually helps people, from **user manuals** and **quick start guides** to **API docs** and **troubleshooting guides.**
+
+I enjoy working with software teams, digging into how things work, and turning all that technical complexity into something clear and useful for users. Writing for me isn’t just about explaining features, it’s about helping someone get unstuck and feel confident using a product.
+
+This space is where I share my sample work, experiments, and a bit of what I’ve learned along the way.

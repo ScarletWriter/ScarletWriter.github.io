@@ -78,8 +78,8 @@ author:
 footer:
   links:
     - label: "Linkdin"
-      icon: "fab fa-fw fa-linkdin-square"
-      url: "https://twitter.com/"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"

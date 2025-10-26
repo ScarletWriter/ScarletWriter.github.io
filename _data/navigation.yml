@@ -2,8 +2,8 @@ main:
 #  - title: "Posts"
 #    url: /Posts/
   - title: "skill"
-    url: /categories/
+    url: /skill/
   - title: "tool"
-    url: /tags/
+    url: /tool/
   - title: "About"
     url: /about/

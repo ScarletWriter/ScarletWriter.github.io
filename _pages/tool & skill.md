@@ -1,5 +1,5 @@
 ---
-permalink: "/tool-and-skill/"
+permalink: "/tool & skill/"
 title: "Tool & Skill"
 ---    
 

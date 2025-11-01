@@ -65,9 +65,9 @@ author:
  #   - label: "Website"
  #     icon: "fas fa-fw fa-link"
  #     url: "https://"
-    - label: "Linkdin"
+    - label: "LinkedIn"
       icon: "fa-brands fa-linkedin-in"
-      url: [Prajakta Ghonmode](https://www.linkedin.com/in/prajakta-ghonmode-746146227)
+      url: "https://www.linkedin.com/in/prajakta-ghonmode-746146227"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Linkdin"
+    - label: "LinkdIn"
       icon: "fa-brands fa-linkedin-in"
-      url: [prajakta Ghonmode](https://www.linkedin.com/in/prajakta-ghonmode-746146227)
+      url: "https://www.linkedin.com/in/prajakta-ghonmode-746146227"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"

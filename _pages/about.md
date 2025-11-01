@@ -10,4 +10,4 @@ I completed my **schooling** and **HSC** from the same school, then pursued a **
 Email: [prajakta7800@gmail.com](mailto:prajakta7800@gmail.com)  
 Location: Bengaluru, India  
 Phone: +91 96234 63495  
-Languages: English, Hindi, Marathi (Read, Write,  
+Languages: English, Hindi, Marathi (Read, Write, Speak) 

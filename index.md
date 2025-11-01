@@ -11,7 +11,7 @@ author_profile: true
 
 (you might know me online as ScarletWriter)
 
-I’m a technical writer with over 3+ years of experience creating documentation that actually helps people, from **user manuals** and **quick start guides** to **API docs** and **troubleshooting guides.**
+I’m a technical writer with over 3+ years of experience creating documentation that actually helps people, from **user manuals** , **release note** and **quick start guides** to **API docs** and **troubleshooting guides.**
 
 I enjoy working with software teams, digging into how things work, and turning all that technical complexity into something clear and useful for users. Writing for me isn’t just about explaining features, it’s about helping someone get unstuck and feel confident using a product.
 

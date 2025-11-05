@@ -3,7 +3,6 @@ permalink: "/tool & skill/"
 title: "Tool & Skill"
 ---     
 
-
 ## 🗂️ What I Do      
 1. Hands-on experience in Content **Planning, Creation, Editing and Publishing.**      
 2. Collaborate with **SMEs, developers, testers, and product managers** to gather technical inputs.  

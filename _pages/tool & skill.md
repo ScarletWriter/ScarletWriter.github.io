@@ -2,6 +2,7 @@
 permalink: "/tool & skill/"
 title: "Tool & Skill"
 ---     
+## Tools   
 
 ## 🗂️ What I Do      
 1. Hands-on experience in Content **Planning, Creation, Editing and Publishing.**      

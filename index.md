@@ -9,7 +9,8 @@ author_profile: true
 
 **Hi, I’m Prajakta Ghonmode** 👋
 
-(you might know me online as ScarletWriter)
+(you might know me online as ScarletWriter)    
+![Image](https://share.google/images/ffIRIPtYwVnuSwhRX)
 
 I’m a technical writer with over 3+ years of experience creating documentation that actually helps people, from **user manuals** , **release note** and **quick start guides** to **API docs** and **troubleshooting guides.**
 

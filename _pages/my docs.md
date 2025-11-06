@@ -1,6 +1,6 @@
 ---
 permalink: /my docs/
-title: "My Docs"
+title: 
 ---       
 
 #  🌟 Welcome To My Sample Work !  

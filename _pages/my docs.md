@@ -5,7 +5,7 @@ title: "My Docs"
 
 ##  🌟 Welcome To My Portfolio !  
 
-Here i gather words. ideas, and stories. Each piece offers a look into my imagination and art of my writing.
+Here i gather words, ideas, and stories. Each piece offers a look into my imagination and art of my writing.
 
 ## What's Included  
 This contains various type of documentation, including:  

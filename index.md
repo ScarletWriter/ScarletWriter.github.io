@@ -15,4 +15,4 @@ I’m a technical writer with over 3+ years of experience creating documentation
 
 I enjoy working with software teams, digging into how things work, and turning all that technical complexity into something clear and useful for users. Writing for me isn’t just about explaining features, it’s about helping someone get unstuck and feel confident using a product.
 
-This space is where I share my sample work, experiments, and a bit of what I’ve learned along the way.
+This space is where I share my sample work, experiments, and a bit of what I’ve learned along the way. 👉 [Click here](https://scarletwriter.github.io/my%20docs/)

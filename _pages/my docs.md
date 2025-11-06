@@ -3,9 +3,9 @@ permalink: /my docs/
 title: "My Docs"
 ---       
 
-#  🌟 Welcome To My Sample Work !  
+##  🌟 Welcome To My Portfolio !  
 
-This showcase a collection of my documents created to demostrate my skills in clear, concise, and user friendly technical writing content.  
+Here i gather words. ideas, and stories. Each piece offers a look into my imagination and art of my writing.
 
 ## What's Included  
 This contains various type of documentation, including:  
